@@ -211,6 +211,7 @@ return [
         'Html' => Spatie\Menu\Laravel\Html::class,
         'Link' => Spatie\Menu\Laravel\Link::class,
         'Excel' => Maatwebsite\Excel\Facades\Excel::class,
+        'Image' => Intervention\Image\Facades\Image::class,
 
     ],
 
